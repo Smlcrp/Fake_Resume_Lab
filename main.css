@@ -1,0 +1,59 @@
+html {
+    background-color:olivedrab;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+h1 {
+    text-align: center;
+    font-family: Helvetica;
+    color:blueviolet;
+}
+h2 {
+    text-align: center;
+    color:deeppink;
+}
+.finder {
+    color:cadetblue;
+}
+.workTitle {
+    color: rgb(99, 71, 255);
+}
+.work {
+    text-align: center;
+}
+ul {
+    list-style-type: none;
+    color:ghostwhite;
+    padding-bottom: 50px;
+}
+li {
+    padding: 10px;
+}
+.links {
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color:brown;
+  }
+  .one {
+    display: block;
+    color: #000;
+    padding: 8px 16px;
+    text-decoration: none;
+  }
+  .one:hover {
+    background-color: #555;
+    color: white;
+  }
+  .proTitle{
+      color:darkslateblue;
+  }
+  .projects {
+      color:ghostwhite;
+  }
+  .pro {
+      text-align:center;
+  }
+  
+  
